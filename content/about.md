@@ -171,28 +171,28 @@ La mecánica de trabajo reposa en la lectura anticipada de los textos obligatori
 
 # Cronograma
 
-Actividad                                  Sesión
------------------------------------------- ---------------
-Alicia Márquez Murrieta y Martín Paladino  06/08/2018
-Martín Paladino                            13/08/2018
-Alicia Márquez Murrieta                    20/08/2018
-Martín Paladino                            27/08/2018
-Martín Paladino                            03/09/2018
-Martín Paladino                            10/09/2018
-Martín Paladino                            17/09/2018
-Alicia Márquez Murrieta                    24/09/2018
-Alicia Márquez Murrieta                    01/10/2018
-Alicia Márquez Murrieta                    08/10/2018
-**Trabajo intermedio**                     08/10/2018
-Alicia Márquez Murrieta                    15/10/2018
-Martín Paladino                            22/10/2018
-Martín Paladino                            29/10/2018
-Alicia Márquez Murrieta                    05/11/2018
-Alicia Márquez Murrieta                    12/11/2018
-**Entrega de resumen**                     12/11/2018
-**Retroalimentación de propuestas**        26/11/2018
-Martín Paladino                            03/12/2018
-**Entrega del trabajo final**              10/12/2018
+Actividad                                 |Sesión
+------------------------------------------|---------------
+Alicia Márquez Murrieta y Martín Paladino |06/08/2018
+Martín Paladino                           |13/08/2018
+Alicia Márquez Murrieta                   |20/08/2018
+Martín Paladino                           |27/08/2018
+Martín Paladino                           |03/09/2018
+Martín Paladino                           |10/09/2018
+Martín Paladino                           |17/09/2018
+Alicia Márquez Murrieta                   |24/09/2018
+Alicia Márquez Murrieta                   |01/10/2018
+Alicia Márquez Murrieta                   |08/10/2018
+**Trabajo intermedio**                    |08/10/2018
+Alicia Márquez Murrieta                   |15/10/2018
+Martín Paladino                           |22/10/2018
+Martín Paladino                           |29/10/2018
+Alicia Márquez Murrieta                   |05/11/2018
+Alicia Márquez Murrieta                   |12/11/2018
+**Entrega de resumen**                    |12/11/2018
+**Retroalimentación de propuestas**       |26/11/2018
+Martín Paladino                           |03/12/2018
+**Entrega del trabajo final**             |10/12/2018
 
 [^1]: Tamaño Carta, Tipografía Times New Roman 12, Interlineado 1,5, Márgenes laterales 3cm., Sup. e Inf. 2,5 cm. El límite de extensión excluye bibliografía y carátula. Alternativamente se acepta el formato de la plantilla base de \LaTeX para la clase `article`.
 
