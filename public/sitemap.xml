@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/post/2018/08/13/notas-de-clase-marx/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -24,6 +29,18 @@
   </url>
   
   <url>
+    <loc>/tags/marx/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/notas/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -35,6 +52,7 @@
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
