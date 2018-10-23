@@ -4,6 +4,9 @@ author: Alicia Márquez Murrieta y Martín Paladino
 date: Lunes de 15:00 a 18:00hs
 ---
 
+> Subir textos de Boltanski y Thevenot. 
+> Especificar caps de Boltanski (Alicia)
+
 # Introducción
 
 Aquello que llamamos teoría social reúne un conjunto de debates teóricos sobre aspectos fundamentales de la vida y organización sociales. Se trata de aportes con un alto nivel de abstracción que se articulan en torno a grandes temas (la acción, el orden social, la modernidad, el cambio social, la cultura, las identidades). Un conocimiento apropiado de los principales debates permitirá a los estudiantes no solo aplicar las herramientas teóricas propias de esos debates, sino también desarrollar una mayor comprensión de las teorías de alcance intermedio directamente vinculadas con fenómenos empíricos que reposan en supuestos teóricos más generales.
@@ -139,8 +142,17 @@ En atención a los objetivos presentados se propone la siguiente estructura para
     - Cap. 5. Los regímenes políticos de dominación.
     - Cap. 6. La emancipación en sentido pragmático.
 
-## Sesión 15. Sociologías pragmatistas (II).
-*Alicia Márquez Murrieta (12/11/2018)*
+## Sesión 15. Teoría de sistemas.
+*Martín Paladino (12/11/2018)*
+
+- Luhmann, Niklas (2011) La sociedad de la sociedad. 
+    - Cap. 1. La sociedad como sistema social. pp. 5--88.
+
+## Sesión 16. Retroalimentación de las propuestas de trabajo final. 
+*Alicia Márquez Murrieta y Martín Paladino (26/11/2018)*
+
+## Sesión 16. Sociologías pragmatistas (II).
+*Alicia Márquez Murrieta (03/12/2018)*
 
 - Thevenot, Laurent (2016) La acción en plural. Una introducción a la sociología pragmática. Buenos Aires, Siglo XXI.
     - Cap. 2. Economía y sociología de la acción coordinada: racionalidad y normas sociales. pp. 75--111.
@@ -148,14 +160,7 @@ En atención a los objetivos presentados se propone la siguiente estructura para
 
 > **Entrega del resumen del trabajo final.**
 
-## Sesión 16. Retroalimentación de las propuestas de trabajo final. 
-*Alicia Márquez Murrieta y Martín Paladino (26/11/2018)*
 
-## Sesión 17. Teoría de sistemas.
-*Martín Paladino (03/12/2018)*
-
-- Luhmann, Niklas (2011) La sociedad de la sociedad. 
-    - Cap. 1. La sociedad como sistema social. pp. 5--88.
 
 # Dinámica de trabajo
 
@@ -188,10 +193,10 @@ Alicia Márquez Murrieta                   |15/10/2018
 Martín Paladino                           |22/10/2018
 Martín Paladino                           |29/10/2018
 Alicia Márquez Murrieta                   |05/11/2018
-Alicia Márquez Murrieta                   |12/11/2018
+Martín Paladino                           |12/11/2018
 **Entrega de resumen**                    |12/11/2018
 **Retroalimentación de propuestas**       |26/11/2018
-Martín Paladino                           |03/12/2018
+Alicia Márquez Murrieta                   |03/12/2018
 **Entrega del trabajo final**             |10/12/2018
 
 [^1]: Tamaño Carta, Tipografía Times New Roman 12, Interlineado 1,5, Márgenes laterales 3cm., Sup. e Inf. 2,5 cm. El límite de extensión excluye bibliografía y carátula. Alternativamente se acepta el formato de la plantilla base de \LaTeX para la clase `article`.
