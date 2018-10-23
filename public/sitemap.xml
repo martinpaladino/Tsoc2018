@@ -3,7 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-<<<<<<< HEAD
+    <loc>/post/2018/10/23/presentaciones-para-la-sesi%C3%B3n-del-29-10/</loc>
+    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2018/10/09/agregado-sociolog%C3%ADa-fundamental-de-n-elias/</loc>
     <lastmod>2018-10-09T00:00:00+00:00</lastmod>
   </url>
@@ -11,10 +15,6 @@
   <url>
     <loc>/post/2018/09/06/lectura-adicional-sobre-acci%C3%B3n-colectiva/</loc>
     <lastmod>2018-09-06T00:00:00+00:00</lastmod>
-=======
-    <loc>/post/2018/10/23/presentaciones-para-la-sesi%C3%B3n-del-29-10/</loc>
-    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
->>>>>>> 261703a986ab5a75097c1e01954ae22665f77d0f
   </url>
   
   <url>
@@ -40,11 +40,7 @@
   
   <url>
     <loc>/</loc>
-<<<<<<< HEAD
-    <lastmod>2018-10-09T00:00:00+00:00</lastmod>
-=======
     <lastmod>2018-10-23T00:00:00+00:00</lastmod>
->>>>>>> 261703a986ab5a75097c1e01954ae22665f77d0f
   </url>
   
   <url>
@@ -67,11 +63,7 @@
   
   <url>
     <loc>/post/</loc>
-<<<<<<< HEAD
-    <lastmod>2018-10-09T00:00:00+00:00</lastmod>
-=======
     <lastmod>2018-10-23T00:00:00+00:00</lastmod>
->>>>>>> 261703a986ab5a75097c1e01954ae22665f77d0f
     <priority>0</priority>
   </url>
   
