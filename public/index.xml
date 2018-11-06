@@ -6,18 +6,23 @@
     <description>Recent content in Curso on Teoría Social 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
-=======
-    <lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
->>>>>>> 70459f579953d115df3d0c4c9512d6e0280aca05
+    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< HEAD
-=======
+      <title>La sociedad de la sociedad</title>
+      <link>/post/2018/11/06/la-sociedad-de-la-sociedad/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/11/06/la-sociedad-de-la-sociedad/</guid>
+      <description>Va el enlace para la lectura de las sesión del 12/11/2018. Son las páginas 5-88 del paginado del libro, no necesariamente del PDF. Programa. De todos modos se sube el libro completo.
+ Las primeras páginas están intencionalmente en blanco. Revisar más abajo. Notificar cualquier problema con la descarga por correo electrónico.
+ Enlace de descarga en pCloud</description>
+    </item>
+    
+    <item>
       <title>Lectura de Boltanski</title>
       <link>/post/2018/11/04/lectura-de-boltanski/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
@@ -27,24 +32,17 @@
     </item>
     
     <item>
->>>>>>> 70459f579953d115df3d0c4c9512d6e0280aca05
       <title>Presentaciones para la sesión del 29/10</title>
       <link>/post/2018/10/23/presentaciones-para-la-sesi%C3%B3n-del-29-10/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/10/23/presentaciones-para-la-sesi%C3%B3n-del-29-10/</guid>
-<<<<<<< HEAD
-      <description>Introducción En la sesión del 29&amp;frasl;10 tres grupos presentarán las lecturas asignadas.
-=======
       <description>Introducción En la sesión trece tres grupos distribuidos al azar presentarán las lecturas asignadas.
->>>>>>> 70459f579953d115df3d0c4c9512d6e0280aca05
 Algunas sugerencias:
  Es importante que a partir de la presentación aún quienes no hayan leído los textos puedan reconstruir los argumentos principales de los autores en cuestión. También se sugiere que, a manera de cierre, se presente alguna reflexión sobre poder, desigualdad y dominación simbólica.   La lectura de Grignon y Passeron está disponible en &amp;ldquo;Lecturas&amp;rdquo;, ya que formaba parte del programa.</description>
     </item>
     
     <item>
-<<<<<<< HEAD
-=======
       <title>Agregado: Sociología fundamental de N Elias</title>
       <link>/post/2018/10/09/agregado-sociolog%C3%ADa-fundamental-de-n-elias/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
@@ -64,7 +62,6 @@ También pueden descargarla directamente desde aquí Hay una versión en españo
     </item>
     
     <item>
->>>>>>> 70459f579953d115df3d0c4c9512d6e0280aca05
       <title>Lecturas</title>
       <link>/post/2018/08/13/lecturas/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
