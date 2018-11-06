@@ -75,6 +75,7 @@ En atención a los objetivos presentados se propone la siguiente estructura para
 
 - Elster, Jon (1996) Tuercas y tornillos. Una introducción a los conceptos básicos de las ciencias sociales. Barcelona, Gedisa. 
     - Caps 1, 2, 3, 6 y 12.
+- Elster, Jon (1985) Rationality, morality and collective action. Ethics, 96, 1.
 
 ## Sesión 7. Sistema y acción. 
 *Martín Paladino (17/09/2018)*
@@ -117,6 +118,7 @@ En atención a los objetivos presentados se propone la siguiente estructura para
 *Alicia Márquez Murrieta (15/10/2018)*
 
 - Elias, Norbert (1982) Sociología fundamental, Barcelona, GEDISA
+    - Introducción
     - Cap. 4. Universales de la sociedad humana. pp. 121--158.
 
 ## Sesión 12. El estructuralismo constructivista.

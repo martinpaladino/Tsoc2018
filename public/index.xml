@@ -6,23 +6,65 @@
     <description>Recent content in Curso on Teoría Social 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
+>>>>>>> 70459f579953d115df3d0c4c9512d6e0280aca05
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
+=======
+      <title>Lectura de Boltanski</title>
+      <link>/post/2018/11/04/lectura-de-boltanski/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/11/04/lectura-de-boltanski/</guid>
+      <description>En este enlace está disponible De la crítica. El sitio de descarga es seguro (pCloud).</description>
+    </item>
+    
+    <item>
+>>>>>>> 70459f579953d115df3d0c4c9512d6e0280aca05
       <title>Presentaciones para la sesión del 29/10</title>
       <link>/post/2018/10/23/presentaciones-para-la-sesi%C3%B3n-del-29-10/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/10/23/presentaciones-para-la-sesi%C3%B3n-del-29-10/</guid>
+<<<<<<< HEAD
       <description>Introducción En la sesión del 29&amp;frasl;10 tres grupos presentarán las lecturas asignadas.
+=======
+      <description>Introducción En la sesión trece tres grupos distribuidos al azar presentarán las lecturas asignadas.
+>>>>>>> 70459f579953d115df3d0c4c9512d6e0280aca05
 Algunas sugerencias:
  Es importante que a partir de la presentación aún quienes no hayan leído los textos puedan reconstruir los argumentos principales de los autores en cuestión. También se sugiere que, a manera de cierre, se presente alguna reflexión sobre poder, desigualdad y dominación simbólica.   La lectura de Grignon y Passeron está disponible en &amp;ldquo;Lecturas&amp;rdquo;, ya que formaba parte del programa.</description>
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
+      <title>Agregado: Sociología fundamental de N Elias</title>
+      <link>/post/2018/10/09/agregado-sociolog%C3%ADa-fundamental-de-n-elias/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/10/09/agregado-sociolog%C3%ADa-fundamental-de-n-elias/</guid>
+      <description>En la entrada lecturas están los vínculos para leer la introducción y capítulo 4 de Sociología Fundamental.</description>
+    </item>
+    
+    <item>
+      <title>Lectura adicional sobre acción colectiva</title>
+      <link>/post/2018/09/06/lectura-adicional-sobre-acci%C3%B3n-colectiva/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/09/06/lectura-adicional-sobre-acci%C3%B3n-colectiva/</guid>
+      <description>Ya está actualizado el programa y cargada la lectura Rationality, morality and collective action de Jon Elster en la sección pertinente.
+También pueden descargarla directamente desde aquí Hay una versión en español, pero no la tengo a mano para subirla.</description>
+    </item>
+    
+    <item>
+>>>>>>> 70459f579953d115df3d0c4c9512d6e0280aca05
       <title>Lecturas</title>
       <link>/post/2018/08/13/lecturas/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
@@ -34,11 +76,11 @@ Bourdieu (2007) El sentido práctico.pdf
 Durkheim (1986) Las reglas de método sociológico.pdf
 Durkheim, Las formas elementales de la vida religiosa.pdf
 Elias (1987) La sociedad de los individuos.pdf
+Elias (2018) Sociología Fundamental Introducción
+Elias (2018) Sociología Fundamental Capítulo 4
 Elster (2007) Tuercas y tornillos.pdf
-Garfinkel (2006) Estudios en Etnometodologia.PDF
-Giddens, Anthony, Las nuevas reglas del metodo sociologico.pdf
-Giddens, La constitución de la sociedad.pdf
-Grignon y Passeron (1991) Lo culto y lo popular-1.</description>
+Elster (1985) Rationality, morality and collective action
+Garfinkel%20(2006) Estudios en Etnometodologia.PDF</description>
     </item>
     
     <item>
